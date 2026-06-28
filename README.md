@@ -4,6 +4,7 @@ This repository contains the code and simulation data for our paper titled "Comp
 
 The performance of DMPLF and MPLF on the same simulated CEST data set containing 5000 Z-spectra.
 
-<img width="1760" height="1104" alt="image" src="https://github.com/user-attachments/assets/723b3d3f-eb8e-42fb-8871-fe10cffb959d" />
+<img width="1762" height="1118" alt="image" src="https://github.com/user-attachments/assets/8c447801-55f7-446f-80c8-e133dfc29d6f" />
+
 
 
